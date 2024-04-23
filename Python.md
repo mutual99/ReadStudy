@@ -552,7 +552,7 @@ class Student:
 Student("윤인성") # name 속성에 "윤인성" 문자열을 저장
 ```
 
-## 소멸자 ( destructor )
+### 소멸자 ( destructor )
 
 - 인스턴스가 소멸될 때 호출되는 함수
 
